@@ -5,7 +5,7 @@ If you have any comments, write me at joni.lices@gmail.com.
 
 > If you want to know more about the packages I've been using and its versions, check them below. 
 
-## Project 1 
+## Project 1 - First Steps in NLP
 In this project, Itested some of the basic features of NLP, such us exploring features of NLTK, sentence tokenizing, etc. 
 <hr>
 
