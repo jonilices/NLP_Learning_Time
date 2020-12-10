@@ -1,4 +1,6 @@
-![banner](banner.png)
+<img src="banner.png"
+     alt="NLP Banner"
+     style="width: 100%; height: 80px;" />
 
 # Learning NLP as an autodidact
 
