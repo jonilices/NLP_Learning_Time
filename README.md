@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 # Learning NLP as an autodidact
 
 This is a showcase of some of the projects I've been doing during my learning process. Please, take it easy, I'm just learning.
