@@ -3,6 +3,10 @@
 This is a showcase of some of the projects I've been doing during my learning process. Please, take it easy, I'm just learning.
 If you have any comments, write me at joni.lices@gmail.com. 
 
+> If you want to know more about the packages I've been using and its versions, check them below. 
+
+## Project 1 
+In this project, Itested some of the basic features of NLP, such us exploring features of NLTK, sentence tokenizing, etc. 
 <hr>
 
 ## Projects made in an environment with the following packages:
@@ -79,5 +83,4 @@ If you have any comments, write me at joni.lices@gmail.com.
 - wordcloud==1.8.1
 - zipp 
 
-## Project 1 
-In this project, Itested some of the basic features of NLP, such us exploring features of NLTK, sentence tokenizing, etc. 
+
