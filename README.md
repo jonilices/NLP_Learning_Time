@@ -2,7 +2,7 @@
      alt="NLP Banner"
      style="width: 100%; height: 80px;" />
 
-# Learning NLP as an autodidact
+# Learning NLP as an autodidact in Python
 
 This is a showcase of some of the projects I've been doing during my learning process. Please, take it easy, I'm just learning.
 If you have any comments, write me at joni.lices@gmail.com. 
